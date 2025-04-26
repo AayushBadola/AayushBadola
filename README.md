@@ -86,10 +86,10 @@ Here are some of the projects and libraries I've worked on. Click to expand!
   </summary>
   <br>
   <blockquote>
-    A Python library designed for <i>[Add brief, compelling description of Aquant here - e.g., seamless financial data retrieval and analysis, efficient API interaction layer, etc.]</i>.
+    <i>Aquant is a lightweight C library designed to make user input in console applications safer and easier. It abstracts complex, error-prone input handling in C, providing type-safe, memory-safe functions for capturing strings, integers, floats, doubles, and characters. It includes built-in input validation, dynamic memory management, and retry logic for invalid inputs. Functions like get_string, get_int, get_float, get_double, get_char, etc., help ensure clean, robust code—especially valuable for students and CLI tools.</i>.
   </blockquote>
   <p>
-    <b>Tech used:</b> Python
+    <b>Tech used:</b> C
     <br>
     <a href="https://github.com/AayushBadola/Aquant" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
@@ -104,10 +104,10 @@ Here are some of the projects and libraries I've worked on. Click to expand!
   </summary>
   <br>
   <blockquote>
-    A Python library built for <i>[Add brief, compelling description of Atomix here - e.g., simplifying complex state management, handling atomic operations gracefully, etc.]</i>.
+   <i>Atomix is a small, straightforward C++ library designed to provide basic utility functions for common programming needs, particularly useful in console-based applications or for simple data processing tasks.</i>.
   </blockquote>
   <p>
-    <b>Tech used:</b> Python
+    <b>Tech used:</b> C++
     <br>
     <a href="https://github.com/AayushBadola/Atomix" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
@@ -125,7 +125,7 @@ Here are some of the projects and libraries I've worked on. Click to expand!
     A fun command-line game developed as part of the Harvard CS50 course, where you guess NBA players based on stats.
   </blockquote>
   <p>
-    <b>Tech used:</b> Python <i></i>
+    <b>Tech used:</b> Python
     <br>
     <a href="https://github.com/AayushBadola/NBA-guessing-game" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
@@ -139,10 +139,9 @@ Here are some of the projects and libraries I've worked on. Click to expand!
   </summary>
   <br>
   <blockquote>
-     A personal voice assistant built with Python, capable of understanding commands and performing tasks like <i>[mention 1-2 key features, e.g., fetching weather, setting reminders, simple web searches]</i>.
-  </blockquote>
+     A personal voice assistant capable of understanding commands and performing tasks like what is the weather</blockquote>
   <p>
-    <b>Tech used:</b> Python, <i>[List key libraries like speech_recognition, pyttsx3 etc.]</i>
+  
     <br>
     <a href="https://github.com/AayushBadola/Assistant" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
@@ -160,7 +159,7 @@ Proud to be associated with learning and certifications from these leading organ
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh0dmhtNndwbWdvdXBncDdnaXlvaXJncW92MnM4azdvdGV4ODc0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IygV3jQxJGQxXTa/giphy.gif" alt="IBM Logo" height="50" style="margin: 0 10px;" />
   <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-microsoft-logo-icon-png-image_3588808.jpg" alt="Microsoft Logo" height="50" style="margin: 0 10px;" /> <!-- Found generic MS logo -->
   <img src="https://www.keyweo.com/wp-content/uploads/2022/04/google-logo-history.jpg" alt="Google Logo" height="50" style="margin: 0 10px;" />
-  <img src="https://static.cdnlogo.com/logos/h/99/harvard-university.png" alt="Harvard Logo" height="50" style="margin: 0 10px;" />
+  <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="50" style="margin: 0 10px;" />
   <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB Logo" height="50" style="margin: 0 10px;" />
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/a2/6a/41a26a22-f5a0-0f6f-43ff-03fb971d00ca/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/1200x600wa.png" alt="LinkedIn Logo" height="50" style="margin: 0 10px;" />
   <img src="https://gatewaytoeducation.com/public/upload/products/Indian-Institute-of-Technology-IIT-Delhi-61.png" alt="IIT Delhi Logo" height="50" style="margin: 0 10px;" />
