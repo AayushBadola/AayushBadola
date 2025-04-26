@@ -1,16 +1,189 @@
-## Hi there 👋
 
-<!--
-**AayushBadola/AayushBadola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/wfVxiXGTY4Q3YxG0xn/giphy.gif" width="130" />&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/IWoZqzqkrsMtzua4PJ/giphy.gif" width="100" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aayush Badola!
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Passionate Developer | Python & Java Enthusiast | Open Source Contributor</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayush-badola-0a7b2b343/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Badola-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:aayush.badola2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+<!-- Optional: Add other relevant badges like Portfolio, Twitter, etc. -->
+<!--   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-My%20Work-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a> -->
+</p>
+
+---
+
+<p align="center">
+  🔭 I’m currently building cool things with Python & Java and diving deeper into web technologies.<br>
+  👯 I’m open to collaborating on innovative open-source projects.<br>
+  💬 Ask me about anything related to my tech stack or projects below!<br>
+  ⚡ Fun fact: I turn coffee into code (and sometimes bugs)!
+</p>
+
+---
+
+## 🛠️ My Tech Arsenal
+
+<table width="100%">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="120">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /><br><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub>
+    </td>
+     <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="SQL/MySQL" /><br><sub><b>SQL</b></sub>
+    </td>
+     <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub>
+    </td>
+     <td align="center" width="120">
+      <!-- Add another skill/tool here if needed -->
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 My Featured Projects & Libraries
+
+Here are some of the projects and libraries I've worked on. Click to expand!
+
+<details>
+  <summary>
+    <b>🐍 Aquant - Python Library</b>
+  </summary>
+  <br>
+  <blockquote>
+    A Python library designed for <i>[Add brief, compelling description of Aquant here - e.g., seamless financial data retrieval and analysis, efficient API interaction layer, etc.]</i>.
+  </blockquote>
+  <p>
+    <b>Tech used:</b> Python
+    <br>
+    <a href="https://github.com/AayushBadola/Aquant" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+    </a>
+  
+  </p>
+</details>
+
+<details>
+  <summary>
+    <b>⚛️ Atomix - Python Library</b>
+  </summary>
+  <br>
+  <blockquote>
+    A Python library built for <i>[Add brief, compelling description of Atomix here - e.g., simplifying complex state management, handling atomic operations gracefully, etc.]</i>.
+  </blockquote>
+  <p>
+    <b>Tech used:</b> Python
+    <br>
+    <a href="https://github.com/AayushBadola/Atomix" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+    </a>
+    <!-- Optional: Add PyPI badge if published -->
+  </p>
+</details>
+
+<details>
+  <summary>
+    <b>🏀 NBA Guessing Game (Harvard CS50)</b>
+  </summary>
+  <br>
+  <blockquote>
+    A fun command-line game developed as part of the Harvard CS50 course, where you guess NBA players based on stats.
+  </blockquote>
+  <p>
+    <b>Tech used:</b> C <i>(or Python? Verify the language)</i>
+    <br>
+    <a href="https://github.com/AayushBadola/NBA-guessing-game" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary>
+    <b>🗣️ Voice Assistant</b>
+  </summary>
+  <br>
+  <blockquote>
+     A personal voice assistant built with Python, capable of understanding commands and performing tasks like <i>[mention 1-2 key features, e.g., fetching weather, setting reminders, simple web searches]</i>.
+  </blockquote>
+  <p>
+    <b>Tech used:</b> Python, <i>[List key libraries like speech_recognition, pyttsx3 etc.]</i>
+    <br>
+    <a href="https://github.com/AayushBadola/Assistant" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+    </a>
+  </p>
+</details>
+
+---
+
+## ✨ Affiliations & Recognition
+
+Proud to be associated with learning and certifications from these leading organizations:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ibm/ibm-original.svg" alt="IBM Logo" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa6bd44866605ea0b760951d6b75410f3a4/icons/microsoft/microsoft-original.svg" alt="Microsoft Logo" height="50" style="margin: 0 10px;" /> <!-- Found generic MS logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Logo" height="50" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_shield_wreath.svg/1200px-Harvard_shield_wreath.svg.png" alt="Harvard Logo" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" height="50" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" height="50" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Indian_Institute_of_Technology_Delhi_logo.svg/1200px-Indian_Institute_of_Technology_Delhi_logo.svg.png" alt="IIT Delhi Logo" height="50" style="margin: 0 10px;" />
+</p>
+
+---
+
+## 📊 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayushBadola&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Aayush Badola's GitHub Stats" width="48%"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushBadola&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="Aayush Badola's Top Languages" width="48%"/>
+</p>
+<p align="center">
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBadola&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://komarev.com/ghpvc/?username=AayushBadola&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
+
+
