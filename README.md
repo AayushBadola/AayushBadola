@@ -37,7 +37,7 @@
 ## 🛠️ My Tech Arsenal
 
 <table width="100%">
-  <!-- Row 1: Languages & Web -->
+  <!-- Row 1: Core Languages -->
   <tr>
     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub>
@@ -45,9 +45,18 @@
     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub>
     </td>
+     <td align="center" width="120" height="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /><br><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="120" height="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub>
+    </td>
     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
     </td>
+  </tr>
+  <!-- Row 2: Web, Data & Version Control -->
+  <tr>
     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub>
     </td>
@@ -55,20 +64,18 @@
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub>
     </td>
      <td align="center" width="120" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /><br><sub><b>C</b></sub>
-    </td>
-  </tr>
-  <!-- Row 2: More Languages, Data & ML -->
-  <tr>
-    <td align="center" width="120" height="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub>
-    </td>
-     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="SQL/MySQL" /><br><sub><b>SQL</b></sub>
     </td>
      <td align="center" width="120" height="90">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub>
     </td>
+    <td align="center" width="120" height="90">
+       <!-- GitHub Logo -->
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+  <!-- Row 3: Python Data Science & ML -->
+   <tr>
      <td align="center" width="120" height="90">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br><sub><b>NumPy</b></sub>
     </td>
@@ -78,35 +85,35 @@
     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br><sub><b>TensorFlow</b></sub>
     </td>
-  </tr>
-  <!-- Row 3: Frameworks, Cloud & Platforms -->
-   <tr>
      <td align="center" width="120" height="90">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="48" height="48" alt="Keras" /><br><sub><b>Keras</b></sub>
     </td>
      <td align="center" width="120" height="90">
-       <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" /><br><sub><b>FastAPI</b></sub>
-     </td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter Notebook" /><br><sub><b>Jupyter</b></sub>
+    </td>
+   </tr>
+  <!-- Row 4: Frameworks, Cloud, Platforms & Tools -->
+   <tr>
       <td align="center" width="120" height="90">
-       <!-- Updated Flask Logo -->
-       <img src="https://img.icons8.com/ios/200/000000/flask.png" width="48" height="48" alt="Flask" />
-       <!-- Note: Changed color code in URL from FA5252 to 000000 for better visibility on light backgrounds -->
+       <!-- Flask Logo (Nolan style) -->
+       <img src="https://img.icons8.com/nolan/512/flask.png" width="48" height="48" alt="Flask" />
        <br><sub><b>Flask</b></sub>
+     </td>
+     <td align="center" width="120" height="90">
+       <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" /><br><sub><b>FastAPI</b></sub>
      </td>
      <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br><sub><b>GCP</b></sub>
     </td>
-    <td align="center" width="120" height="90">
-       <!-- Updated GitHub Logo -->
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub>
-    </td>
      <td align="center" width="120" height="90">
-       <!-- Updated GitHub Pages Logo -->
+       <!-- GitHub Pages Logo -->
        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" width="48" height="48" alt="GitHub Pages" /><br><sub><b>GitHub Pages</b></sub>
+    </td>
+    <td align="center" width="120" height="90">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br><sub><b>VS Code</b></sub>
     </td>
    </tr>
 </table>
-
 
 ---
 
