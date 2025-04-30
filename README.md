@@ -37,7 +37,7 @@
 ## 🛠️ My Tech Arsenal
 
 <table width="100%">
-  <!-- Row 1: Core Languages & Web Basics -->
+  <!-- Row 1: Languages & Web -->
   <tr>
     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub>
@@ -54,12 +54,12 @@
     <td align="center" width="120" height="90">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub>
     </td>
-  </tr>
-  <!-- Row 2: More Languages & Data/Version Control -->
-  <tr>
      <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /><br><sub><b>C</b></sub>
     </td>
+  </tr>
+  <!-- Row 2: More Languages, Data & ML -->
+  <tr>
     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub>
     </td>
@@ -72,15 +72,15 @@
      <td align="center" width="120" height="90">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br><sub><b>NumPy</b></sub>
     </td>
-  </tr>
-  <!-- Row 3: Python Libraries (ML/Web) -->
-   <tr>
      <td align="center" width="120" height="90">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="48" height="48" alt="Scikit-learn" /><br><sub><b>Scikit-learn</b></sub>
     </td>
     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br><sub><b>TensorFlow</b></sub>
     </td>
+  </tr>
+  <!-- Row 3: Frameworks, Cloud & Platforms -->
+   <tr>
      <td align="center" width="120" height="90">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="48" height="48" alt="Keras" /><br><sub><b>Keras</b></sub>
     </td>
@@ -88,29 +88,25 @@
        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" /><br><sub><b>FastAPI</b></sub>
      </td>
       <td align="center" width="120" height="90">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/100px-Flask_logo.svg.png" width="48" height="48" alt="Flask" /><br><sub><b>Flask</b></sub>
+       <!-- Updated Flask Logo -->
+       <img src="https://img.icons8.com/ios/200/000000/flask.png" width="48" height="48" alt="Flask" />
+       <!-- Note: Changed color code in URL from FA5252 to 000000 for better visibility on light backgrounds -->
+       <br><sub><b>Flask</b></sub>
      </td>
-   </tr>
-   <!-- Row 4: Cloud & Platform Tools -->
-   <tr>
      <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br><sub><b>GCP</b></sub>
     </td>
     <td align="center" width="120" height="90">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub>
+       <!-- Updated GitHub Logo -->
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub>
     </td>
      <td align="center" width="120" height="90">
-       <!-- Using a generic web/pages icon for GitHub Pages -->
-       <img src="https://cdn.simpleicons.org/githubpages/121013" width="48" height="48" alt="GitHub Pages" /><br><sub><b>GitHub Pages</b></sub>
+       <!-- Updated GitHub Pages Logo -->
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" width="48" height="48" alt="GitHub Pages" /><br><sub><b>GitHub Pages</b></sub>
     </td>
-     <td align="center" width="120" height="90">
-       <!-- Empty cell for alignment -->
-     </td>
-      <td align="center" width="120" height="90">
-       <!-- Empty cell for alignment -->
-     </td>
    </tr>
 </table>
+
 
 ---
 
