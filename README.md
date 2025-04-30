@@ -88,12 +88,29 @@
        <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" /><br><sub><b>FastAPI</b></sub>
      </td>
       <td align="center" width="120" height="90">
-       <!-- Updated Flask Logo -->
-       <img src="https://cdn.simpleicons.org/flask/000000" width="48" height="48" alt="Flask" /><br><sub><b>Flask</b></sub>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/100px-Flask_logo.svg.png" width="48" height="48" alt="Flask" /><br><sub><b>Flask</b></sub>
+     </td>
+   </tr>
+   <!-- Row 4: Cloud & Platform Tools -->
+   <tr>
+     <td align="center" width="120" height="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" /><br><sub><b>GCP</b></sub>
+    </td>
+    <td align="center" width="120" height="90">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub>
+    </td>
+     <td align="center" width="120" height="90">
+       <!-- Using a generic web/pages icon for GitHub Pages -->
+       <img src="https://cdn.simpleicons.org/githubpages/121013" width="48" height="48" alt="GitHub Pages" /><br><sub><b>GitHub Pages</b></sub>
+    </td>
+     <td align="center" width="120" height="90">
+       <!-- Empty cell for alignment -->
+     </td>
+      <td align="center" width="120" height="90">
+       <!-- Empty cell for alignment -->
      </td>
    </tr>
 </table>
-
 
 ---
 
