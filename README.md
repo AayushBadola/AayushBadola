@@ -216,7 +216,7 @@ Proud to be associated with learning and certifications from these leading organ
 </p>
 <p align="center">
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBadola&theme=dracula&hide_border=true" alt="GitHub Streak" />
+ 
 </p>
 
 ---
