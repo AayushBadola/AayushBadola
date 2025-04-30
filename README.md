@@ -36,42 +36,78 @@
 
 ## 🛠️ My Tech Arsenal
 
-<table width="100%">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="120">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-  <tr>
-     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /><br><sub><b>C</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub>
-    </td>
-     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="SQL/MySQL" /><br><sub><b>SQL</b></sub>
-    </td>
-     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub>
-    </td>
-     <td align="center" width="120">
-      <!-- Add another skill/tool here if needed -->
-    </td>
-  </tr>
-</table>
+<style>
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .skill-card {
+    width: 120px;
+    text-align: center;
+    font-family: sans-serif;
+  }
+
+  .skill-card img {
+    width: 48px;
+    height: 48px;
+  }
+
+  .skill-card sub {
+    display: block;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .skill-card:hover::after {
+    content: attr(data-desc);
+    position: absolute;
+    background: #333;
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    z-index: 100;
+  }
+</style>
+
+<div class="skills-grid">
+  <div class="skill-card" data-desc="NumPy, Pandas, TensorFlow, scikit-learn, PySpark, FastAPI">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+    <sub>Python</sub>
+  </div>
+  <div class="skill-card" data-desc="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <sub>JavaScript</sub>
+  </div>
+  <div class="skill-card" data-desc="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" />
+    <sub>SQL</sub>
+  </div>
+  <div class="skill-card" data-desc="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" />
+    <sub>C</sub>
+  </div>
+  <div class="skill-card" data-desc="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+    <sub>C++</sub>
+  </div>
+  <div class="skill-card" data-desc="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
+    <sub>HTML</sub>
+  </div>
+  <div class="skill-card" data-desc="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
+    <sub>CSS</sub>
+  </div>
+</div>
 
 ---
 
