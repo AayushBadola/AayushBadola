@@ -37,41 +37,62 @@
 ## 🛠️ My Tech Arsenal
 
 <table width="100%">
+  <!-- Row 1: Core Languages & Web Basics -->
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="120" height="90">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub>
     </td>
   </tr>
+  <!-- Row 2: More Languages & Data/Version Control -->
   <tr>
-     <td align="center" width="120">
+     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /><br><sub><b>C</b></sub>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub>
     </td>
-     <td align="center" width="120">
+     <td align="center" width="120" height="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="SQL/MySQL" /><br><sub><b>SQL</b></sub>
     </td>
-     <td align="center" width="120">
+     <td align="center" width="120" height="90">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub>
     </td>
-     <td align="center" width="120">
-      <!-- Add another skill/tool here if needed -->
+     <td align="center" width="120" height="90">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br><sub><b>NumPy</b></sub>
     </td>
   </tr>
+  <!-- Row 3: Python Libraries (ML/Web) -->
+   <tr>
+     <td align="center" width="120" height="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="48" height="48" alt="Scikit-learn" /><br><sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="120" height="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br><sub><b>TensorFlow</b></sub>
+    </td>
+     <td align="center" width="120" height="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="48" height="48" alt="Keras" /><br><sub><b>Keras</b></sub>
+    </td>
+     <td align="center" width="120" height="90">
+       <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="48" height="48" alt="FastAPI" /><br><sub><b>FastAPI</b></sub>
+     </td>
+      <td align="center" width="120" height="90">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" /><br><sub><b>Flask</b></sub>
+     </td>
+   </tr>
 </table>
+
 
 ---
 
