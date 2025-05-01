@@ -190,6 +190,24 @@ Here are some of the projects and libraries I've worked on. Click to expand!
   </p>
 </details>
 
+<details>
+  <summary>
+    <b>Anomaly Detector</b>
+  </summary>
+  <br>
+  <blockquote>
+   <i>A High-Performance, Modular Python System for Identifying Outliers in Continuous Numerical Data Streams utilizing Statistical Methods and Asynchronous Processing Pipelines.</i>.
+  </blockquote>
+  <p>
+    <b>Tech used:</b> Python, asyncio, PyYAML , NumPy , aiohttp
+    <br>
+    <a href="https://github.com/AayushBadola/Anomaly-Detection" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+    </a>
+    <!-- Optional: Add PyPI badge if published -->
+  </p>
+</details>
+
 ---
 
 ## ✨ Affiliations & Recognition
