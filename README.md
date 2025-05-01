@@ -179,15 +179,13 @@ Here are some of the projects and libraries I've worked on. Click to expand!
     <b>🗣️ Voice Assistant</b>
   </summary>
   <br>
-  <blockquote>
-     A personal voice assistant capable of understanding commands and performing tasks like what is the weather</blockquote>
-  <p>
   
-    <br>
-    <a href="https://github.com/AayushBadola/Assistant" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
-    </a>
-  </p>
+  <blockquote>
+     A personal voice assistant capable of understanding commands and performing tasks like what is the weather
+  </blockquote>
+    <a href="https://github.com/AayushBadola/Assistant" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/></a>
+
+
 </details>
 
 <details>
