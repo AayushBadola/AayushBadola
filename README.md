@@ -192,7 +192,7 @@ Here are some of the projects and libraries I've worked on. Click to expand!
 
 <details>
   <summary>
-    <b>Anomaly Detector</b>
+    <b>🚨 Anomaly Detector</b>
   </summary>
   <br>
   <blockquote>
