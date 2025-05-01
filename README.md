@@ -8,7 +8,7 @@
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aayush Badola!
 </h1>
 
-<h3 align="center">Passionate Developer | Python & Java Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Engineer in Computer Science | Building Tomorrow’s Tech Today</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-badola-0a7b2b343/" target="_blank">
