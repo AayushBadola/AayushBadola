@@ -219,7 +219,7 @@ Proud to be associated with learning and certifications from these leading organ
   <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="50" style="margin: 0 10px;" />
   <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB Logo" height="50" style="margin: 0 10px;" />
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/a2/6a/41a26a22-f5a0-0f6f-43ff-03fb971d00ca/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/1200x600wa.png" alt="LinkedIn Logo" height="50" style="margin: 0 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/640px-Indian_Institute_of_Technology_Delhi_Logo.svg.png " alt="IIT Delhi Logo" height="50" style="margin: 0 10px;" />
+  <img src="https://images.app.goo.gl/VDLvDJ9cyiAR69MY8" alt="IIT Delhi Logo" height="50" style="margin: 0 10px;" />
 </p>
 
 ---
