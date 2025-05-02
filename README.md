@@ -118,7 +118,7 @@
 
 ---
 
-## 🚀 My Featured Projects & Libraries
+## 🚀 My Featured Projects & Libraries <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk1ejN6cnBia2JvYngzc2Jmd2N1eWp1ZTdtOTBkcnJhaXk4MnBzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ypuM5Hk82jwKZmJImD/giphy.gif" width="50" height="50">
 
 Here are some of the projects and libraries I've worked on. Click to expand!
 
