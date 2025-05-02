@@ -17,10 +17,7 @@
   <a href="mailto:aayush.badola2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>&nbsp;&nbsp;
-<!-- Optional: Add other relevant badges like Portfolio, Twitter, etc. -->
-<!--   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-My%20Work-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a> -->
+
 </p>
 
 ---
@@ -213,18 +210,18 @@ Here are some of the projects and libraries I've worked on. Click to expand!
 Proud to be associated with learning and certifications from these leading organizations:
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh0dmhtNndwbWdvdXBncDdnaXlvaXJncW92MnM4azdvdGV4ODc0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IygV3jQxJGQxXTa/giphy.gif" alt="IBM Logo" height="50" style="margin: 0 10px;" />
-  <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-microsoft-logo-icon-png-image_3588808.jpg" alt="Microsoft Logo" height="50" style="margin: 0 10px;" /> <!-- Found generic MS logo -->
-  <img src="https://www.keyweo.com/wp-content/uploads/2022/04/google-logo-history.jpg" alt="Google Logo" height="50" style="margin: 0 10px;" />
-  <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="50" style="margin: 0 10px;" />
-  <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB Logo" height="50" style="margin: 0 10px;" />
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/a2/6a/41a26a22-f5a0-0f6f-43ff-03fb971d00ca/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/1200x600wa.png" alt="LinkedIn Logo" height="50" style="margin: 0 10px;" />
-  <img src="https://logowik.com/content/uploads/images/iit-delhi-indian-institute-of-technology-delhi5001.jpg" alt="IIT Delhi Logo" height="50" style="margin: 0 10px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh0dmhtNndwbWdvdXBncDdnaXlvaXJncW92MnM4azdvdGV4ODc0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IygV3jQxJGQxXTa/giphy.gif" alt="IBM Logo" height="100" style="margin: 0 0px;" />
+  <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-microsoft-logo-icon-png-image_3588808.jpg" alt="Microsoft Logo" height="100" style="margin: 00px;" /> <!-- Found generic MS logo -->
+  <img src="https://www.keyweo.com/wp-content/uploads/2022/04/google-logo-history.jpg" alt="Google Logo" height="100" style="margin: 00px;" />
+  <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="100" style="margin: 00px;" />
+  <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="MongoDB Logo" height="100" style="margin:0px;" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/a2/6a/41a26a22-f5a0-0f6f-43ff-03fb971d00ca/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/1200x600wa.png" alt="LinkedIn Logo" height="100" style="margin: 00px;" />
+  <img src="https://logowik.com/content/uploads/images/iit-delhi-indian-institute-of-technology-delhi5001.jpg" alt="IIT Delhi Logo" height="100" style="margin: 00px;" />
 </p>
 
 ---
 
-## 📊 My GitHub Activity
+## 📊 My GitHub Activity  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A4ZGc1N2pvYzNmOXpmeGsxNzh5bGhuYXdka3J1aXBjZGsyYzM1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZiPcuOQn9WizpLZ9Fg/giphy.gif" width="100" height="100">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AayushBadola&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Aayush Badola's GitHub Stats" width="48%"/>&nbsp;
@@ -241,5 +238,4 @@ Proud to be associated with learning and certifications from these leading organ
   Visitor count<br>
   <img src="https://komarev.com/ghpvc/?username=AayushBadola&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
-
 
