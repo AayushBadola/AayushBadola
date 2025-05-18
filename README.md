@@ -209,7 +209,7 @@ Here are some of the projects and libraries I've worked on. Click to expand!
 
 <details>
   <summary>
-    <b> Brain Cancer Classificaion</b>
+    <b>🧠 Brain Cancer Classificaion</b>
   </summary>
   <br>
   <blockquote>
@@ -226,7 +226,7 @@ Here are some of the projects and libraries I've worked on. Click to expand!
 
 <details>
   <summary>
-    <b>Exo-Planet Detector</b>
+    <b>🌎 Exo-Planet Detector</b>
   </summary>
   <br>
   <blockquote>
