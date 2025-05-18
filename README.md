@@ -207,6 +207,39 @@ Here are some of the projects and libraries I've worked on. Click to expand!
   </p>
 </details>
 
+<details>
+  <summary>
+    <b> Brain Cancer Classificaion</b>
+  </summary>
+  <br>
+  <blockquote>
+   Convolutional Neural Network (CNN) built with TensorFlow/Keras to classify brain MRI images into Glioma, Meningioma, and a general Tumor category. Based on Brain Cancer Dataset
+  </blockquote>
+  <p>
+    <b>Tech used:</b> Python, Keras, Tensorflow, numpy, pandas etc
+    <br>
+    <a href="https://github.com/AayushBadola/BrainCancerClassifier" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+    </a>
+  </p>
+</details>
+
+  <summary>
+    <b>Exo-Planet Detector</b>
+  </summary>
+  <br>
+  <blockquote>
+   Machine learning pipeline for detecting exoplanets from Kepler Space Telescope data. Implements data preprocessing, model training (Random Forest), evaluation, and prediction, using Hydra for configuration and MLflow for experiment tracking
+  </blockquote>
+  <p>
+    <b>Tech used:</b> Python, numpy, tensorflow, matplotlib, hydra etc
+    <br>
+    <a href="https://github.com/AayushBadola/Exo-Planet-Detection" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+    </a>
+  </p>
+</details>
+
 ---
 
 ## ✨ Affiliations & Recognition
