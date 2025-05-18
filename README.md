@@ -224,6 +224,7 @@ Here are some of the projects and libraries I've worked on. Click to expand!
   </p>
 </details>
 
+<details>
   <summary>
     <b>Exo-Planet Detector</b>
   </summary>
