@@ -241,6 +241,23 @@ Here are some of the projects and libraries I've worked on. Click to expand!
   </p>
 </details>
 
+<details>
+  <summary>
+    <b>👶 Fetus Health CLassifier</b>
+  </summary>
+  <br>
+  <blockquote>
+   An advanced Deep Learning model (CNN-Transformer Hybrid) for Fetal Health Classification, achieving ~95% validation accuracy. Leveraged TensorFlow, Keras, and Optuna for automated hyperparameter optimization and robust training pipeline on CTG data.
+  </blockquote>
+  <p>
+    <b>Tech used:</b> Python, numpy, tensorflow, matplotlib, Keras, Optuna etc
+    <br>
+    <a href="https://github.com/AayushBadola/FetusHealth" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+    </a>
+  </p>
+</details>
+
 ---
 
 ## ✨ Affiliations & Recognition
