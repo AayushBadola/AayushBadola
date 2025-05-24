@@ -34,6 +34,7 @@
 </p>
 
 ---
+<p align="center">
 
 ## 🛠️ My Tech Arsenal
 
@@ -115,6 +116,8 @@
     </td>
    </tr>
 </table>
+
+</p>
 
 ---
 
