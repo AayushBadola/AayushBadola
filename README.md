@@ -11,9 +11,9 @@
 <h1 align="center">
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aayush Badola!
 </h1>
-
-<h3 align="center">Engineer in Computer Science | Building Tomorrow’s Tech Today</h3>
-
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&width=435&lines=Debugging+Everynight)](https://git.io/typing-svg)
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-badola-0a7b2b343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Badola-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
