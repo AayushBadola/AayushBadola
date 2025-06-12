@@ -12,7 +12,9 @@
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aayush Badola!
 </h1>
 <p align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&width=435&lines=Debugging+Everynight)](https://git.io/typing-svg)
+
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-badola-0a7b2b343/" target="_blank">
