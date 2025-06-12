@@ -1,220 +1,169 @@
-<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="800" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aayush Badola!</h1>
+<h1 align="center">Aayush Badola</h1>
 
-<!-- DYNAMIC TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3399FF¢er=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+Machine+Learning+Engineer;Open-Source+Collaborator;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3399FF¢er=true&vCenter=true&width=600&lines=Software+Engineer;Architecting+Scalable+Solutions;Machine+Learning+%26+AI+Engineering;Full-Stack+Development" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- SOCIAL & CONTACT -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-badola-0a7b2b343/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Badola-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>  
   <a href="mailto:aayush.badola2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
 </p>
 
+## Executive Summary
+A results-driven Software Engineer with a strong foundation in **Python, Java, and C++**, and a specialization in building **scalable backend systems and intelligent Machine Learning models**. I have a proven ability to architect and implement robust, high-performance applications from conception to deployment. I am passionate about leveraging modern DevOps practices and contributing to impactful open-source projects.
+
+---
+
+## 🎯 Core Competencies
+*   **Backend & Systems Development:** Designing and building scalable, resilient backend services and APIs using Python (Flask, FastAPI) and Java. Proficient in database design (SQL & NoSQL) and system architecture.
+*   **Machine Learning & AI Engineering:** Developing, training, and deploying end-to-end machine learning pipelines. Experienced with Deep Learning (TensorFlow, Keras) for computer vision and data-driven classification tasks.
+*   **Developer Tools & Libraries:** Creating efficient, reusable, and type-safe libraries in C and C++ to solve common programming challenges and improve developer productivity.
+*   **DevOps & Cloud:** Implementing CI/CD pipelines and leveraging cloud infrastructure (GCP, AWS) and containerization (Docker, Kubernetes) to ensure reliable and automated deployments.
+
+---
+
+## 🛠️ Tech Arsenal
 <p align="center">
-  A passionate and driven software engineer specializing in Python, Java, and Machine Learning. I enjoy turning complex problems into elegant, efficient code and am constantly exploring the frontiers of technology. My goal is to build software that is not only functional but also scalable and impactful.
+  <table align="center">
+    <tr>
+      <td align="center" width="180">
+        <b>Languages</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,sql" height="45" alt="Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Backend & Databases</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,mysql,postgres,mongodb,redis" height="45" alt="Backend"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Frontend</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,html,css" height="45" alt="Frontend"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>ML & Data Science</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tensorflow,keras,scikitlearn,numpy,pandas,jupyter,matplotlib" height="45" alt="ML & Data Science"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>DevOps & Cloud</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,git,github,githubactions,jenkins,terraform" height="45" alt="DevOps & Cloud"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Tools</b>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode,linux,postman" height="45" alt="Tools"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-## 🚀 My Current Focus
-- 🔭 **Building Robust Systems:** Currently architecting an asynchronous anomaly detection system and creating reusable developer libraries in C/C++.
-- 🌱 **Deepening My Expertise:** Diving deeper into production-level MLOps, distributed systems, and cloud-native technologies.
-- 👯 **Seeking Collaboration:** Eager to collaborate on innovative open-source projects in AI/ML, backend systems, or developer productivity tools.
-- 💬 **Let's Talk!** Ask me about my projects, tech stack, or anything related to software engineering and machine learning!
-
----
-
-## 🛠️ My Tech Arsenal
+## 📈 GitHub Statistics
 <p align="center">
-  Here are the primary technologies I work with:
-</p>
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" />
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" />
-      <br><b>Java</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="C" />
-      <br><b>C</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" />
-      <br><b>C++</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
-      <br><b>JavaScript</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=flask" width="60" height="60" alt="Flask" />
-      <br><b>Flask</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="60" height="60" alt="FastAPI" />
-      <br><b>FastAPI</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" />
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=gcp" width="60" height="60" alt="GCP" />
-      <br><b>Google Cloud</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" />
-      <br><b>TensorFlow</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=keras" width="60" height="60" alt="Keras" />
-      <br><b>Keras</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=scikitlearn" width="60" height="60" alt="Scikit-Learn" />
-      <br><b>Scikit-Learn</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=numpy" width="60" height="60" alt="NumPy" />
-      <br><b>NumPy</b>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
-      <br><b>Git</b>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 My GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushBadola&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="Aayush Badola's GitHub Stats" style="width: 80%; max-width: 600px;" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushBadola&layout=compact&theme=dracula&hide_border=false&count_private=true" alt="Aayush Badola's Top Languages" style="width: 80%; max-width: 600px;" />
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayushBadola&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 80%; max-width: 600px;"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushBadola&layout=compact&theme=dracula&hide_border=false&count_private=true" alt="Top Languages" style="width: 80%; max-width: 600px;"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AayushBadola&theme=dracula&hide_border=false" style="width: 80%; max-width: 600px;" />
 </p>
 
-<!-- GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://github.com/AayushBadola/AayushBadola/blob/output/github-contribution-grid-snake.svg" alt="Aayush's Contribution Grid Snake Animation" />
-</p>
-
 ---
 
-## 🏆 GitHub Trophies
+## 📂 Featured Projects
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AayushBadola&theme=dracula&no-frame=false&no-bg=true&margin-w=15&margin-h=15" style="width: 90%;" />
-</p>
-
----
-
-## 🚀 My Featured Projects & Libraries
-<p align="center">
-  Here are some of the projects and libraries I've built. Click to expand!
+A selection of projects demonstrating my technical capabilities.
 </p>
 
 <details>
   <summary>
-    <b>🚨 Anomaly Detector</b>
+    <b>🚨 Asynchronous Anomaly Detection System</b>
   </summary>
   <br>
   <blockquote>
-   <i>A High-Performance, Modular Python System for Identifying Outliers in Continuous Numerical Data Streams utilizing Statistical Methods and Asynchronous Processing Pipelines.</i>.
+    Architected a high-performance, modular Python system for identifying outliers in real-time numerical data streams. The system leverages <code>asyncio</code> for non-blocking I/O and statistical methods for detection, making it suitable for monitoring and alerting applications.
   </blockquote>
   <p>
-    <b>Tech used:</b> Python, asyncio, PyYAML , NumPy , aiohttp
+    <b>Tech Stack:</b> Python, asyncio, NumPy, PyYAML, aiohttp
     <br>
     <a href="https://github.com/AayushBadola/Anomaly-Detection" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+      <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github" alt="View Repo"/>
     </a>
   </p>
 </details>
 
 <details>
   <summary>
-    <b>🧠 Brain Cancer Classificaion</b>
+    <b>🧠 Brain Cancer Classification with CNNs</b>
   </summary>
   <br>
   <blockquote>
-   A Convolutional Neural Network (CNN) built with TensorFlow/Keras to classify brain MRI images into Glioma, Meningioma, and a general Tumor category. Achieved high accuracy on the Brain Cancer Dataset.
+   Developed a high-accuracy Convolutional Neural Network (CNN) to classify brain MRI images into multiple tumor categories (Glioma, Meningioma). The project involved the full ML pipeline: data preprocessing, model training with TensorFlow/Keras, and performance evaluation.
   </blockquote>
   <p>
-    <b>Tech used:</b> Python, Keras, Tensorflow, NumPy, Pandas
+    <b>Tech Stack:</b> Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib
     <br>
     <a href="https://github.com/AayushBadola/BrainCancerClassifier" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+      <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github" alt="View Repo"/>
     </a>
   </p>
 </details>
 
 <details>
   <summary>
-    <b> Aquant - C Library for Safe Input</b>
+    <b>C/C++ Developer Libraries (Aquant & Atomix)</b>
   </summary>
   <br>
   <blockquote>
-    <i>Aquant is a lightweight C library designed to make user input in console applications safer and easier. It abstracts complex, error-prone input handling, providing type-safe, memory-safe functions for capturing strings, integers, floats, and more, with built-in validation and retry logic.</i>
+   Authored two foundational libraries: <b>Aquant (C)</b> for robust, type-safe console input handling to prevent common memory and type errors, and <b>Atomix (C++)</b>, a collection of utility functions to accelerate development of console-based applications.
   </blockquote>
   <p>
-    <b>Tech used:</b> C
+    <b>Tech Stack:</b> C, C++
     <br>
     <a href="https://github.com/AayushBadola/Aquant" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+      <img src="https://img.shields.io/badge/Aquant_Repo-181717?style=for-the-badge&logo=github" alt="View Aquant Repo"/>
     </a>
-  </p>
-</details>
-
-<details>
-  <summary>
-    <b>⚛️ Atomix - C++ Utility Library</b>
-  </summary>
-  <br>
-  <blockquote>
-   <i>Atomix is a small, straightforward C++ library designed to provide basic utility functions for common programming needs, particularly useful in console-based applications or for simple data processing tasks.</i>.
-  </blockquote>
-  <p>
-    <b>Tech used:</b> C++
-    <br>
     <a href="https://github.com/AayushBadola/Atomix" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+      <img src="https://img.shields.io/badge/Atomix_Repo-181717?style=for-the-badge&logo=github" alt="View Atomix Repo"/>
     </a>
   </p>
 </details>
 
 <details>
   <summary>
-    <b>...and many more!</b>
+    <b>...and more</b>
   </summary>
   <br>
-  Check out my repositories for projects like my <a href="https://github.com/AayushBadola/Exo-Planet-Detection">Exo-Planet Detector</a>, <a href="https://github.com/AayushBadola/FetusHealth">Fetal Health Classifier</a>, and my personal <a href="https://github.com/AayushBadola/Assistant">Voice Assistant</a>!
+  My repositories also include an <a href="https://github.com/AayushBadola/Exo-Planet-Detection">Exo-Planet Detector</a> with a full MLOps pipeline and a <a href="https://github.com/AayushBadola/FetusHealth">Fetal Health Classifier</a> using a hybrid CNN-Transformer model.
 </details>
 
 ---
@@ -224,13 +173,16 @@
   Proud to hold certifications and learning experiences from these leading organizations:
 </p>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh0dmhtNndwbWdvdXBncDdnaXlvaXJncW92MnM4azdvdGV4ODc0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IygV3jQxJGQxXTa/giphy.gif" alt="IBM Logo" height="120" style="margin: 0 15px;" />
-  <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-microsoft-logo-icon-png-image_3588808.jpg" alt="Microsoft Logo" height="120" style="margin: 0 15px;" />
-  <img src="https://www.keyweo.com/wp-content/uploads/2022/04/google-logo-history.jpg" alt="Google Logo" height="120" style="margin: 0 15px;" />
-  <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="120" style="margin: 0 15px;" />
-  <img src="https://logowik.com/content/uploads/images/iit-delhi-indian-institute-of-technology-delhi5001.jpg" alt="IIT Delhi Logo" height="120" style="margin: 0 15px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh0dmhtNndwbWdvdXBncDdnaXlvaXJncW92MnM4azdvdGV4ODc0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IygV3jQxJGQxXTa/giphy.gif" alt="IBM Logo" height="120" style="margin: 0 20px;" />
+  <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-microsoft-logo-icon-png-image_3588808.jpg" alt="Microsoft Logo" height="120" style="margin: 0 20px;" />
+  <img src="https://www.keyweo.com/wp-content/uploads/2022/04/google-logo-history.jpg" alt="Google Logo" height="120" style="margin: 0 20px;" />
+  <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="120" style="margin: 0 20px;" />
+  <img src="https://logowik.com/content/uploads/images/iit-delhi-indian-institute-of-technology-delhi5001.jpg" alt="IIT Delhi Logo" height="120" style="margin: 0 20px;" />
 </p>
-
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AayushBadola&label=PROFILE+VIEWS&color=0066CC&style=for-the-badge" alt="Profile Views"/>
+</p>
 ---
 
 <p align="center">
