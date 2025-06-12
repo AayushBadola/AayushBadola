@@ -38,15 +38,15 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
       <td align="center" width="180">
         <b>Languages</b>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,sql,go,rust" height="45" alt="Languages"/>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,go,rust" height="45" alt="Languages"/>
       </td>
     </tr>
     <tr>
       <td align="center">
         <b>Backend & Databases</b>
       </td>
-      <td align="center">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,mysql,postgres,mongodb,redis,cassandra,graphql" height="45" alt="Backend"/>
       </td>
     </tr>
@@ -54,7 +54,7 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
       <td align="center">
         <b>Frontend</b>
       </td>
-      <td align="center">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,tailwind,bootstrap" height="45" alt="Frontend"/>
       </td>
     </tr>
@@ -62,15 +62,15 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
       <td align="center">
         <b>ML & Data Science</b>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,scikitlearn,numpy,pandas,jupyter,opencv" height="45" alt="ML & Data Science"/>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv,numpy,pandas" height="45" alt="ML & Data Science"/>
       </td>
     </tr>
     <tr>
       <td align="center">
         <b>DevOps & Cloud</b>
       </td>
-      <td align="center">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,azure,git,github,githubactions,jenkins,terraform,ansible" height="45" alt="DevOps & Cloud"/>
       </td>
     </tr>
@@ -78,7 +78,7 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
       <td align="center">
         <b>Tools</b>
       </td>
-      <td align="center">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=vscode,linux,postman,figma,notion" height="45" alt="Tools"/>
       </td>
     </tr>
@@ -174,6 +174,14 @@ A selection of projects demonstrating my technical capabilities.
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh0dmhtNndwbWdvdXBncDdnaXlvaXJncW92MnM4azdvdGV4ODc0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IygV3jQxJGQxXTa/giphy.gif" alt="IBM Logo" height="120" style="margin: 0 20px;" />
   <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-microsoft-logo-icon-png-image_3588808.jpg" alt="Microsoft Logo" height="120" style="margin: 0 20px;" />
+  <img src="https://www.keyweo.com/wp-content/uploads/2022/04/google-logo-history.jpg" alt="Google Logo" height="120" style="margin: 0 20px;" />
+  <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="120" style="margin: 0 20px;" />
+  <img src="https://logowik.com/content/uploads/images/iit-delhi-indian-institute-of-technology-delhi5001.jpg" alt="IIT Delhi Logo" height="120" style="margin: 0 20px;" />
+</p>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AayushBadola&label=PROFILE+VIEWS&color=0066CC&style=for-the-badge" alt="Profile Views"/>
+</p>
   <img src="https://www.keyweo.com/wp-content/uploads/2022/04/google-logo-history.jpg" alt="Google Logo" height="120" style="margin: 0 20px;" />
   <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="120" style="margin: 0 20px;" />
   <img src="https://logowik.com/content/uploads/images/iit-delhi-indian-institute-of-technology-delhi5001.jpg" alt="IIT Delhi Logo" height="120" style="margin: 0 20px;" />
