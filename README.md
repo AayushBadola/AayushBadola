@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<h1 align="center">Aayush Badola</h1>
+# Aayush Badola
+
+A results-driven Software Engineer with a strong foundation in **Python, Java, and C++**, and a specialization in building **scalable backend systems and intelligent Machine Learning models**. I have a proven ability to architect and implement robust, high-performance applications from conception to deployment. I am passionate about leveraging modern DevOps practices and contributing to impactful open-source projects.
+
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3399FF¢er=true&vCenter=true&width=600&lines=Software+Engineer;Architecting+Scalable+Solutions;Machine+Learning+%26+AI+Engineering;Full-Stack+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3399FF¢er=true&vCenter=true&width=550&lines=Software+Engineer;Architecting+Scalable+Solutions;Machine+Learning+%26+AI+Engineering;Full-Stack+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,9 +20,6 @@
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
 </p>
-
-## Executive Summary
-A results-driven Software Engineer with a strong foundation in **Python, Java, and C++**, and a specialization in building **scalable backend systems and intelligent Machine Learning models**. I have a proven ability to architect and implement robust, high-performance applications from conception to deployment. I am passionate about leveraging modern DevOps practices and contributing to impactful open-source projects.
 
 ---
 
@@ -40,7 +39,7 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
         <b>Languages</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,sql" height="45" alt="Languages"/>
+        <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,sql,go,rust" height="45" alt="Languages"/>
       </td>
     </tr>
     <tr>
@@ -48,7 +47,7 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
         <b>Backend & Databases</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,mysql,postgres,mongodb,redis" height="45" alt="Backend"/>
+        <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,mysql,postgres,mongodb,redis,cassandra,graphql" height="45" alt="Backend"/>
       </td>
     </tr>
     <tr>
@@ -56,7 +55,7 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
         <b>Frontend</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,html,css" height="45" alt="Frontend"/>
+        <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,tailwind,bootstrap" height="45" alt="Frontend"/>
       </td>
     </tr>
     <tr>
@@ -64,7 +63,7 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
         <b>ML & Data Science</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=tensorflow,keras,scikitlearn,numpy,pandas,jupyter,matplotlib" height="45" alt="ML & Data Science"/>
+        <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,scikitlearn,numpy,pandas,jupyter,opencv" height="45" alt="ML & Data Science"/>
       </td>
     </tr>
     <tr>
@@ -72,7 +71,7 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
         <b>DevOps & Cloud</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,git,github,githubactions,jenkins,terraform" height="45" alt="DevOps & Cloud"/>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,azure,git,github,githubactions,jenkins,terraform,ansible" height="45" alt="DevOps & Cloud"/>
       </td>
     </tr>
     <tr>
@@ -80,7 +79,7 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
         <b>Tools</b>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,linux,postman" height="45" alt="Tools"/>
+        <img src="https://skillicons.dev/icons?i=vscode,linux,postman,figma,notion" height="45" alt="Tools"/>
       </td>
     </tr>
   </table>
@@ -180,11 +179,6 @@ A selection of projects demonstrating my technical capabilities.
   <img src="https://logowik.com/content/uploads/images/iit-delhi-indian-institute-of-technology-delhi5001.jpg" alt="IIT Delhi Logo" height="120" style="margin: 0 20px;" />
 </p>
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AayushBadola&label=PROFILE+VIEWS&color=0066CC&style=for-the-badge" alt="Profile Views"/>
-</p>
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AayushBadola&label=PROFILE+VIEWS&color=0066CC&style=for-the-badge" alt="Profile Views"/>
 </p>
