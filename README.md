@@ -1,16 +1,16 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="800"/>
+</p>
 
-# Aayush Badola
-
-A results-driven Software Engineer with a strong foundation in **Python, Java, and C++**, and a specialization in building **scalable backend systems and intelligent Machine Learning models**. I have a proven ability to architect and implement robust, high-performance applications from conception to deployment. I am passionate about leveraging modern DevOps practices and contributing to impactful open-source projects.
-
-<br>
+<h1 align="center">Aayush Badola</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3399FF¢er=true&vCenter=true&width=550&lines=Software+Engineer;Architecting+Scalable+Solutions;Machine+Learning+%26+AI+Engineering;Full-Stack+Development" alt="Typing SVG" />
   </a>
 </p>
+
+A results-driven Software Engineer with a strong foundation in **Python, Java, and C++**, and a specialization in building **scalable backend systems and intelligent Machine Learning models**. I have a proven ability to architect and implement robust, high-performance applications from conception to deployment. I am passionate about leveraging modern DevOps practices and contributing to impactful open-source projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-badola-0a7b2b343/" target="_blank">
@@ -174,14 +174,6 @@ A selection of projects demonstrating my technical capabilities.
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh0dmhtNndwbWdvdXBncDdnaXlvaXJncW92MnM4azdvdGV4ODc0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IygV3jQxJGQxXTa/giphy.gif" alt="IBM Logo" height="120" style="margin: 0 20px;" />
   <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-microsoft-logo-icon-png-image_3588808.jpg" alt="Microsoft Logo" height="120" style="margin: 0 20px;" />
-  <img src="https://www.keyweo.com/wp-content/uploads/2022/04/google-logo-history.jpg" alt="Google Logo" height="120" style="margin: 0 20px;" />
-  <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="120" style="margin: 0 20px;" />
-  <img src="https://logowik.com/content/uploads/images/iit-delhi-indian-institute-of-technology-delhi5001.jpg" alt="IIT Delhi Logo" height="120" style="margin: 0 20px;" />
-</p>
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AayushBadola&label=PROFILE+VIEWS&color=0066CC&style=for-the-badge" alt="Profile Views"/>
-</p>
   <img src="https://www.keyweo.com/wp-content/uploads/2022/04/google-logo-history.jpg" alt="Google Logo" height="120" style="margin: 0 20px;" />
   <img src="https://icon2.cleanpng.com/20181129/jgo/kisspng-harvard-university-graduate-school-of-design-logo-harvard-university-directory-art-amp-educati-1713916355445.webp" alt="Harvard Logo" height="120" style="margin: 0 20px;" />
   <img src="https://logowik.com/content/uploads/images/iit-delhi-indian-institute-of-technology-delhi5001.jpg" alt="IIT Delhi Logo" height="120" style="margin: 0 20px;" />
