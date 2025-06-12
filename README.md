@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2a85a3fe4bc2747c3d6114596fbecf23279aacbc4ad08977c7e2e5ab86d2691d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966" width="800"/>
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="800"/>
 </p>
 
 <h1 align="center">Aayush Badola</h1>
@@ -10,13 +10,15 @@
   </a>
 </p>
 
+<!-- SECONDARY GIF, ALIGNED RIGHT -->
+<img align="right" alt="Code Flow" width="400" src="https://camo.githubusercontent.com/2a85a3fe4bc2747c3d6114596fbecf23279aacbc4ad08977c7e2e5ab86d2691d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966">
+
 A results-driven Software Engineer with a strong foundation in **Python, Java, and C++**, and a specialization in building **scalable backend systems and intelligent Machine Learning models**. I have a proven ability to architect and implement robust, high-performance applications from conception to deployment. I am passionate about leveraging modern DevOps practices and contributing to impactful open-source projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-badola-0a7b2b343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>  
-  <!-- MEDIUM BADGE ADDED HERE -->
   <a href="https://medium.com/@aayush.badola2" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>  
@@ -24,6 +26,7 @@ A results-driven Software Engineer with a strong foundation in **Python, Java, a
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
 </p>
+<br>
 
 ---
 
