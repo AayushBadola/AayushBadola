@@ -13,7 +13,7 @@
 </h1>
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&center=true&width=435&lines=Debugging+Everynight)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&center=true&width=250&lines=Debugging+Everynight)](https://git.io/typing-svg)
 
 </p>
 <p align="center">
