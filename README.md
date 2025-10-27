@@ -10,10 +10,6 @@
   </a>
 </p>
 
-### 🎧 Now Playing on Spotify
-[![Spotify](https://novatorem-orcin-delta.vercel.app/api/spotify)](https://open.spotify.com/user/d9yi6lik3yhifhdbpfyg98k01)
-
-
 <!-- SECONDARY GIF, ALIGNED RIGHT -->
 <img align="right" alt="Code Flow" width="400" src="https://camo.githubusercontent.com/2a85a3fe4bc2747c3d6114596fbecf23279aacbc4ad08977c7e2e5ab86d2691d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966">
 
