@@ -11,7 +11,7 @@
 </p>
 
 ### 🎧 Now Playing on Spotify
-[![Spotify](https://novatorem-orcin-delta.vercel.app/api/spotify)](https://open.spotify.com/user/Aayush)
+[![Spotify](https://novatorem-orcin-delta.vercel.app/api/spotify)](https://open.spotify.com/user/d9yi6lik3yhifhdbpfyg98k01)
 
 
 <!-- SECONDARY GIF, ALIGNED RIGHT -->
